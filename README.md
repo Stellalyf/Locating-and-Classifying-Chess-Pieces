@@ -3,7 +3,7 @@ For the final project of cse455, our team is composed of Colin Acton, Bob Xiaoha
 
 ## To run our code
 + **Trainning:** Based on google colab, Model_train.ipnb is for training our model, and calculate the accuracy for model performed on testing dataset. you can modify the neural net work type by substitute the 'faster_rcnn_X_101_32x8d_FPN_3x.yaml' in the configuration cell.
- check [dectorn2 offical github page to choose](https://github.com/facebookresearch/detectron2/tree/main/configs/COCO-Detection) what model we can choose.
+ check [dectorn2 offical github page to choose](https://github.com/facebookresearch/detectron2/tree/main/configs/COCO-Detection) what model we can use.
  
 + **
 
