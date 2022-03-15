@@ -15,5 +15,6 @@ Load model weight that already trained from google drive(or from your loacl pc, 
 
 ## Project Presentation Video
 **[link]()**
-
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 ## References
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nXypFB2z2Xw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
