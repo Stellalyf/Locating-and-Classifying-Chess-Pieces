@@ -10,7 +10,7 @@ Based on google colab, Model_train.ipynb is for training our model, and calculat
 Load model weight that already trained from google drive(or from your loacl pc, we also put weights in models folder of this repository, so you can gitclone and just use the model we have trained on customized dataset!
 
 ## Our website
-**[https://sites.google.com/d/1uzxKfaLTHZi_nTe_uz_KO9F3JXxG5mFv/p/1j6dF6si-CycPtty9GZPp3oBSFVOWWU_7/edit]()**
+**[https://sites.google.com/uw.edu/chesspiecedetection/home]()**
 
 ## Project Presentation Video
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/nXypFB2z2Xw/0.jpg)](http://www.youtube.com/watch?v=nXypFB2z2Xw)
