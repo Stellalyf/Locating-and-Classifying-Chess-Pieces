@@ -14,6 +14,13 @@ Load model weight that already trained from google drive(or from your loacl pc, 
 **[https://sites.google.com/d/1uzxKfaLTHZi_nTe_uz_KO9F3JXxG5mFv/p/1j6dF6si-CycPtty9GZPp3oBSFVOWWU_7/edit]()**
 
 ## Project Presentation Video
-**[link]()**
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/nXypFB2z2Xw/0.jpg)](http://www.youtube.com/watch?v=nXypFB2z2Xw)
+
 ## References
+[1] Detectron2 Faster R-CNN Information: https://paperswithcode.com/lib/detectron2/faster-r-cnn
+[2] Roboflow Chess Pieces Dataset: https://public.roboflow.com/object-detection/chess-full
+[3] R-CNN: https://paperswithcode.com/method/r-cnn
+[4] Faster R-CNN: Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks 
+[5] Chess player robot repository: https://github.com/macs-lab/robotic_chess_player
+[6] Chess Pieces Recognition using CNN: https://towardsdatascience.com/board-game-image-recognition-using-neural-networks-116fc876dafa
+[7] Detectron2 official Github repository: https://github.com/facebookresearch/detectron2
